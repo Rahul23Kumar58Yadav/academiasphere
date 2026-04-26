@@ -1,8 +1,8 @@
-Academia Sphere
-Academia Sphere is a modern, scalable SaaS-based educational platform designed to seamlessly connect schools, teachers, parents, and students in a unified digital ecosystem. The platform enables real-time communication, transparent academic tracking, and efficient school management through an intuitive and secure interface.
+AcademiaSphere
+AcademiaSphere is a modern, scalable SaaS-based educational platform designed to seamlessly connect schools, teachers, parents, and students in a unified digital ecosystem. The platform enables real-time communication, transparent academic tracking, and efficient school management through an intuitive and secure interface.
 
 🚀 Overview
-Academia Sphere bridges the gap between educational institutions and parents by providing a centralized system where all student-related activities and performance metrics are easily accessible.
+AcademiaSphere bridges the gap between educational institutions and parents by providing a centralized system where all student-related activities and performance metrics are easily accessible.
 From attendance tracking to fee management, assignment updates, and academic progress reports, the platform ensures that all stakeholders stay informed and engaged.
 
 🎯 Key Features
