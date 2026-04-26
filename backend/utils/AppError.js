@@ -1,0 +1,12 @@
+// utils/AppError.js — keep exactly as you have it, nothing changes here
+class AppError extends Error {
+  constructor(message, statusCode = 500, code) {
+    super(message);
+    this.statusCode    = statusCode;
+    this.code          = code;
+    this.isOperational = true;
+    Error.captureStackTrace(this, this.constructor);
+  }
+}
+
+module.exports = AppError;
